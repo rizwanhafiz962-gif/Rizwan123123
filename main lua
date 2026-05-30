@@ -3,7 +3,7 @@ local dataDir = "/sdcard/Documents"
 local pluginPath = "/sdcard/解说/Plugins/Squad Master/main.lua"
 local updateUrl = "https://raw.githubusercontent.com/rizwanhafiz962-gif/Rizwan123123/main/main.lua"
 local versionUrl = "https://raw.githubusercontent.com/rizwanhafiz962-gif/Rizwan123123/main/version.txt"
-local CURRENT_VERSION = "2.5"
+local CURRENT_VERSION = "2.6"
 
 require "import"
 import "android.widget.*"
